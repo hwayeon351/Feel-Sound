@@ -19,6 +19,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Types of perceived sounds: Baby crying, car honking, dog barking, excavators, sirens
 * Send the perceived sound type and time data to the User Application.   
 
+### Photos
 ![img](./Images/SoundBand.png)
 
   
@@ -30,8 +31,9 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Record the generated sound information
 * Customer Center
 
-<img src="./Images/UserApplication2.png" width="600px" height="300px" title="img" alt="img"></img><br/>
-<img src="./Images/UserApplication2.png" width="600px" height="300px" title="img" alt="img"></img><br/>
+### Photos
+<img src="./Images/UserApplication2.png" width="500px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/UserApplication2.png" width="500px" height="300px" title="img" alt="img"></img><br/>
 
 
 
@@ -42,7 +44,8 @@ This project was initiated to help hearing-impaired people could respond quickly
 * User management
 * Check user suggestions
 
+### Photos
 <img src="./Images/Web1.png" width="500px" height="300px" title="img" alt="img"></img><br/>
-<img src="./Images/Web2.png" width="900px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/Web2.png" width="800px" height="300px" title="img" alt="img"></img><br/>
 <img src="./Images/Web3.png" width="500px" height="400px" title="img" alt="img"></img><br/>
 <img src="./Images/web4.png" width="500px" height="400px" title="img" alt="img"></img><br/>
