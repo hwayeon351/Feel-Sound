@@ -10,7 +10,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 
 ## System Architecture
  There are three main components of this system. It is the 'Sound Band(IoT product)' which detects the danger and informs the user, User Application(android) and Web Pages for Administrators.   
-<img src="./Images/SystemArchitecture.png" width="600px" height="400px" title="img" alt="img"></img><br/>
+<img src="./Images/SystemArchitecture.png" width="700px" height="400px" title="img" alt="img"></img><br/>
 
 
 ## Sound Band(IoT product)
@@ -20,7 +20,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Send the perceived sound type and time data to the User Application.   
 
 ### Photos
-![img](./Images/SoundBand.png)
+<img src="./Images/SoundBand.png" width="500px" height="400px" title="img" alt="img"></img><br/>
 
   
 ## User Application(android)
