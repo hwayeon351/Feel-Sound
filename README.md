@@ -41,7 +41,9 @@ This project was initiated to help hearing-impaired people could respond quickly
 * User management
 * Check user suggestions
 
-![img](./Images/Web1.png)   
+![img](./Images/Web1.png)
+
+
 ![img](./Images/Web2.png)   
 ![img](./Images/Web3.png)   
-![img](./Images/Web4.png)   
+![img](./Images/web4.png)   
