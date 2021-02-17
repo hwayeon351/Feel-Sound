@@ -31,7 +31,8 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Customer Center
 
 ![img](./Images/UserApplication1.png)   
-![img](./Images/UserApplication2.png)
+<img src="./Images/UserApplication2.png" width="600px" height="400px" title="img" alt="img"></img><br/>
+
 
 
 ## Web Pages for Administrators
@@ -41,9 +42,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * User management
 * Check user suggestions
 
-![img](./Images/Web1.png)
-<img src="./Images/Web1.png" width="450px" height="300px" title="img" alt="img"></img><br/>
-
-![img](./Images/Web2.png)   
-![img](./Images/Web3.png)   
-![img](./Images/web4.png)   
+<img src="./Images/Web1.png" width="600px" height="400px" title="img" alt="img"></img><br/>
+<img src="./Images/Web2.png" width="900px" height="400px" title="img" alt="img"></img><br/>
+<img src="./Images/Web3.png" width="600px" height="400px" title="img" alt="img"></img><br/>
+<img src="./Images/Web4.png" width="600px" height="400px" title="img" alt="img"></img><br/>
