@@ -1,4 +1,5 @@
-# 'Feel the Sound' Integrated System for hearing-impaired people   청각 장애인을 위한 '소리를 느끼다' 통합 시스템
+# 'Feel the Sound' Integrated System for hearing-impaired people   
+청각 장애인을 위한 '소리를 느끼다' 통합 시스템
  This is an integrated system for hearing-impaired people that quickly recognizes and informs the sounds that occur in dangerous situations.
 
 
