@@ -42,7 +42,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Check user suggestions
 
 ![img](./Images/Web1.png)
-
+<img src="./Images/Web1.png" width="450px" height="300px" title="img" alt="img"></img><br/>
 
 ![img](./Images/Web2.png)   
 ![img](./Images/Web3.png)   
