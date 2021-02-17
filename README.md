@@ -30,7 +30,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Record the generated sound information
 * Customer Center
 
-![img](./Images/UserApplication1.png)
+![img](./Images/UserApplication1.png)   
 ![img](./Images/UserApplication2.png)
 
 
@@ -41,7 +41,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * User management
 * Check user suggestions
 
-![img](./Images/Web1.png)
-![img](./Images/Web2.png)
-![img](./Images/Web3.png)
-![img](./Images/Web4.png)
+![img](./Images/Web1.png)   
+![img](./Images/Web2.png)   
+![img](./Images/Web3.png)   
+![img](./Images/Web4.png)   
