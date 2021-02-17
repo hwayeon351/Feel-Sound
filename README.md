@@ -19,7 +19,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Types of perceived sounds: Baby crying, car honking, dog barking, excavators, sirens
 * Send the perceived sound type and time data to the User Application.   
 
-### Photos
+### Results
 <img src="./Images/SoundBand.png" width="300px" height="250px" title="img" alt="img"></img><br/>
 
   
@@ -31,7 +31,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Record the generated sound information
 * Customer Center
 
-### Photos
+### Results
 <img src="./Images/UserApplication2.png" width="500px" height="300px" title="img" alt="img"></img><br/>
 <img src="./Images/UserApplication2.png" width="500px" height="300px" title="img" alt="img"></img><br/>
 
@@ -44,7 +44,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * User management
 * Check user suggestions
 
-### Photos
+### Results
 <img src="./Images/Web1.png" width="500px" height="300px" title="img" alt="img"></img><br/>
 <img src="./Images/Web2.png" width="700px" height="300px" title="img" alt="img"></img><br/>
 <img src="./Images/Web3.png" width="500px" height="400px" title="img" alt="img"></img><br/>
