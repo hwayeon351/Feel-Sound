@@ -14,7 +14,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 
 
 ## Sound Band(IoT product)
-#### Function
+### Function
 * Sound Recognition & Notification
 * Types of perceived sounds: Baby crying, car honking, dog barking, excavators, sirens
 * Send the perceived sound type and time data to the User Application.   
@@ -23,20 +23,20 @@ This project was initiated to help hearing-impaired people could respond quickly
 
   
 ## User Application(android)
-#### Function
+### Function
 * Control the 'Sound band' 
   * Set the sound you want to recognize
   * Vibration settings (pattern, size)
 * Record the generated sound information
 * Customer Center
 
-<img src="./Images/UserApplication2.png" width="800px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/UserApplication2.png" width="600px" height="300px" title="img" alt="img"></img><br/>
 <img src="./Images/UserApplication2.png" width="600px" height="300px" title="img" alt="img"></img><br/>
 
 
 
 ## Web Pages for Administrators
-#### Function
+### Function
 * Send an announcement
 * Data Statistics Analysis
 * User management
