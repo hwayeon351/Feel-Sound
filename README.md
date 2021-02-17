@@ -30,8 +30,8 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Record the generated sound information
 * Customer Center
 
-![img](./Images/UserApplication1.png)   
-<img src="./Images/UserApplication2.png" width="500px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/UserApplication2.png" width="800px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/UserApplication2.png" width="600px" height="300px" title="img" alt="img"></img><br/>
 
 
 
@@ -44,5 +44,5 @@ This project was initiated to help hearing-impaired people could respond quickly
 
 <img src="./Images/Web1.png" width="500px" height="300px" title="img" alt="img"></img><br/>
 <img src="./Images/Web2.png" width="900px" height="300px" title="img" alt="img"></img><br/>
-<img src="./Images/Web3.png" width="500px" height="300px" title="img" alt="img"></img><br/>
-<img src="./Images/web4.png" width="500px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/Web3.png" width="500px" height="400px" title="img" alt="img"></img><br/>
+<img src="./Images/web4.png" width="500px" height="400px" title="img" alt="img"></img><br/>
