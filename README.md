@@ -1,2 +1,2 @@
-# Feel-Sound
-청각 장애인을 위한 '소리를 느끼다' 통합 시스템
+# 'Feel the Sound' Integrated System for the Deaf
+
