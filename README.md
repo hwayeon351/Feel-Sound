@@ -10,7 +10,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 
 ## System Architecture
  There are three main components of this system. It is the 'Sound Band(IoT product)' which detects the danger and informs the user, User Application(android) and Web Pages for Administrators.
-<img src="./Images/SystemArchitecture.png" width="1000px" height="600px" title="img" alt="img"></img><br/>
+<img src="./Images/SystemArchitecture.png" width="900px" height="500px" title="img" alt="img"></img><br/>
 
 
 ## Sound Band(IoT product)
@@ -31,7 +31,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Customer Center
 
 ![img](./Images/UserApplication1.png)   
-<img src="./Images/UserApplication2.png" width="400px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/UserApplication2.png" width="500px" height="300px" title="img" alt="img"></img><br/>
 
 
 
@@ -42,7 +42,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * User management
 * Check user suggestions
 
-<img src="./Images/Web1.png" width="600px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/Web1.png" width="500px" height="300px" title="img" alt="img"></img><br/>
 <img src="./Images/Web2.png" width="900px" height="300px" title="img" alt="img"></img><br/>
-<img src="./Images/Web3.png" width="600px" height="300px" title="img" alt="img"></img><br/>
-<img src="./Images/web4.png" width="600px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/Web3.png" width="500px" height="300px" title="img" alt="img"></img><br/>
+<img src="./Images/web4.png" width="500px" height="300px" title="img" alt="img"></img><br/>
