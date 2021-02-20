@@ -1,0 +1,53 @@
+<resources>
+    //app name
+    <string name="app_name">소리를 느끼다</string>
+
+    <string name="notice_permission">원활한 앱 사용을 위해 권한들을 수락 해주세요</string>
+    <string name="channel_name">channel</string>
+    <string name="channel_description">channel description</string>
+
+
+    //intro_layout
+    <string name="setting_btn">소리\n설정</string>
+    <string name="show_btn">소리\n기록</string>
+
+    //record option
+    <string name="sound_type">소리 종류</string>
+    <string name="total_btn">전체 소리</string>
+    <string name="danger_btn">위험 소리</string>
+    <string name="daily_btn">일상 소리</string>
+    <string name="time">시간</string>
+
+    //seting sound option
+    <string name="danger_set">위험\n소리</string>
+    <string name="daily_set">일상\n소리</string>
+
+
+    //danger sound list
+    <string name="list">목록</string>
+    <string name="carhorn">차 경적 소리</string>
+    <string name="siren">사이렌</string>
+    <string name="excavator">굴착기</string>
+    <string name="dogbark">개 짖는 소리</string>
+
+    //daily sound list
+    <string name="babyCrying">아기 울음 소리</string>
+    <string name="washingFinish">세탁기 종료음</string>
+    <string name="subwayCome">지하철 오는 소리</string>
+    <string name="schoolBell">학교 종 소리</string>
+
+    //setting vibration
+    <string name="setvibD">진동 설정(Default)</string>
+    <string name="setvibC">진동 설정(Custom)</string>
+
+    //size of vibration
+    <string name="one">약</string>
+    <string name="two">중</string>
+    <string name="three">강</string>
+
+    <string name="n_one">1</string>
+    <string name="n_two">2</string>
+    <string name="n_three">3</string>
+    <string name="pattern">패턴</string>
+    <string name="size">크기</string>
+</resources>

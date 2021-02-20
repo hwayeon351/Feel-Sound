@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView
+        android:id="@+id/test"
+        android:text="Hello World!"
+        android:gravity="center" />
+    <item android:id ="@+id/my_btn"
+        android:title="MYPAGE"
+        app:showAsAction="always"/>
+</menu>

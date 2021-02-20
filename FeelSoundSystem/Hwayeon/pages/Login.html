@@ -1,0 +1,45 @@
+
+<html>
+  <head>
+    <title>Login</title>
+    <link rel="stylesheet" href="css/Login.css">
+    <meta charset="utf-8">
+  </head>
+
+
+  <body>
+    <h1 class="title">'소리를 느끼다' 관리자 로그인</h1>
+    <div class="box">
+      <form action="php/LoginCheck.php" method="post">
+        <div class="login">
+          <!--id_area-->
+          <div class="id_area">
+              ID
+                  <div class="input_box">
+                    <input type="text" id="id" name="id" placeholder="아이디를 입력하세요." maxlength="41" autofocus required>
+                  </div>
+          </div>
+              <!-- //id_area -->
+              <!-- pw_area -->
+          <div class="pw_area">
+            PW
+              <div class="input_box">
+                <input type="password" id="pw" name="pw" placeholder="비밀번호를 입력하세요." required>
+              </div>
+          </div>
+            <!-- //pw_area -->
+        </div>
+        <div class="right">
+          <input type="submit" name="login_btn" class="login_btn" value="로그인">
+        </div>
+      </form>
+
+
+    </div>
+
+
+
+  </body>
+
+
+</html>

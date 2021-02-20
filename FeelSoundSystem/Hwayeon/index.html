@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <meta charset="utf-8">
+    <title>MainPage</title>
+    <link rel ="stylesheet" href="pages/css/MainPage.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+    <!--menu-->
+    <div id="menu">
+      <ul class="main1">
+        <li class="menu_icon">
+          <span class="menuBtn"><img src="pages/images/menu_icon1.png"
+            width=50px height=50px></span>
+          <ul class="main2">
+            <li id="menu_list1"><a href="">알림 전송</a></li>
+            <script type="text/javascript">
+              $("#menu_list1").click(function(){
+                alert("로그인이 필요합니다.");
+              });
+            </script>
+            <li class="Analysis">통계 분석
+              <ul class="main3">
+                <li id="menu_list2"><a href="">소리 인식</a></li>
+                <script type="text/javascript">
+                  $("#menu_list2").click(function(){
+                    alert("로그인이 필요합니다.");
+                  });
+                </script>
+                <li id="menu_list3"><a href="">사용자 설정</a></li>
+                <script type="text/javascript">
+                  $("#menu_list3").click(function(){
+                    alert("로그인이 필요합니다.");
+                  });
+                </script>
+              </ul>
+            </li>
+            <li id="menu_list4"><a href="">사용자 관리</a></li>
+            <script type="text/javascript">
+              $("#menu_list4").click(function(){
+                alert("로그인이 필요합니다.");
+              });
+            </script>
+            <li id="menu_list5"><a href="">사용자 건의사항</a></li>
+            <script type="text/javascript">
+              $("#menu_list5").click(function(){
+                alert("로그인이 필요합니다.");
+              });
+            </script>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <!--//menu-->
+    <!--login-->
+    <div id="login">
+      <button type="button" name="login" class="login" onclick = "location.href ='pages/Login.html'"
+              style="height: 28px;
+                    width: 100px;
+                    margin-top: 40%;
+                    margin-right: 5%;">로그인</button>
+    </div>
+    <!--//login-->
+    <!--content-->
+    <div id="content">
+      <div class="subtitle">
+        청각장애인을 위한<br>통합 시스템
+      </div>
+      <h1 class="title">소리를<br>느끼다</h1>
+    </div>
+    <!--//comtent-->
+    <div>
+  </div>
+  </body>
+</html>
