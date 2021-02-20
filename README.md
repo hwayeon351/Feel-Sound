@@ -46,6 +46,6 @@ This project was initiated to help hearing-impaired people could respond quickly
 
 ### Results
 <img src="./Images/Web1.png" width="700px" height="500px" title="img" alt="img"></img><br/>
-<img src="./Images/Web2.png" width="1000px" height="600px" title="img" alt="img"></img><br/>
+<img src="./Images/Web2.png" width="950px" height="500px" title="img" alt="img"></img><br/>
 <img src="./Images/Web3.png" width="700px" height="600px" title="img" alt="img"></img><br/>
 <img src="./Images/web4.png" width="700px" height="600px" title="img" alt="img"></img><br/>
