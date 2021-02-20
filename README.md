@@ -32,7 +32,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Customer Center
 
 ### Results
-<img src="./Images/UserApplication1.png" width="750px" height="350px" title="img" alt="img"></img><br/>
+<img src="./Images/UserApplication1.png" width="550px" height="350px" title="img" alt="img"></img><br/>
 <img src="./Images/UserApplication2.png" width="550px" height="350px" title="img" alt="img"></img><br/>
 
 
