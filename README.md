@@ -45,7 +45,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Check user suggestions
 
 ### Results
-<img src="./Images/Web1.png" width="500px" height="300px" title="img" alt="img"></img><br/>
-<img src="./Images/Web2.png" width="700px" height="300px" title="img" alt="img"></img><br/>
-<img src="./Images/Web3.png" width="500px" height="400px" title="img" alt="img"></img><br/>
-<img src="./Images/web4.png" width="500px" height="400px" title="img" alt="img"></img><br/>
+<img src="./Images/Web1.png" width="700px" height="500px" title="img" alt="img"></img><br/>
+<img src="./Images/Web2.png" width="900px" height="500px" title="img" alt="img"></img><br/>
+<img src="./Images/Web3.png" width="700px" height="600px" title="img" alt="img"></img><br/>
+<img src="./Images/web4.png" width="700px" height="600px" title="img" alt="img"></img><br/>
