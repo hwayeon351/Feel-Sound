@@ -20,7 +20,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Send the perceived sound type and time data to the User Application.   
 
 ### Results
-<img src="./Images/SoundBand.png" width="300px" height="250px" title="img" alt="img"></img><br/>
+<img src="./Images/SoundBand.png" width="400px" height="350px" title="img" alt="img"></img><br/>
 
   
 ## User Application(android)
@@ -45,7 +45,7 @@ This project was initiated to help hearing-impaired people could respond quickly
 * Check user suggestions
 
 ### Results
-<img src="./Images/Web1.png" width="650px" height="450px" title="img" alt="img"></img><br/>
+<img src="./Images/Web1.png" width="700px" height="450px" title="img" alt="img"></img><br/>
 <img src="./Images/Web2.png" width="980px" height="500px" title="img" alt="img"></img><br/>
 <img src="./Images/Web3.png" width="700px" height="600px" title="img" alt="img"></img><br/>
 <img src="./Images/web4.png" width="700px" height="600px" title="img" alt="img"></img><br/>
